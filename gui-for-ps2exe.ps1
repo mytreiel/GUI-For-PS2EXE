@@ -2664,7 +2664,6 @@ $inputbutton.Add_Click({ps1})
 $output.Add_Click({output})
 $iconbutton.Add_Click({icon})
 $compile.Add_Click({compile})
-$closeButton.Add_Click({closeForm})
 
 
 [void]$Form.ShowDialog()
